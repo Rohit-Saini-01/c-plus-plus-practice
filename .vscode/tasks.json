@@ -1,29 +1,32 @@
 {
     "version": "2.0.0",
     "tasks": [
-        {
-            "label": "compile",
-            "type": "shell",
-            "command": "g++",
-            "args": [
-                "-std=c++17",
-                "-o",
-                "${fileBasenameNoExtension}",
-                "${file}"
-            ],
-            "group": {
-                "kind": "build",
-                "isDefault": false
-            }
+      {
+        "label": "Compile and run",
+        "type": "shell",
+        "command": "clang++",  // Replace with "g++" if you prefer
+        "args": [
+          "${file}",  // Compile the current source file
+          "-o",
+          "jspwTest",  // Output filename
+          "&&",
+          "./jspwTest",  // Run the compiled program
+          "<",
+          "input.txt",    // Redirect input from file
+          ">",
+          "output.txt",   // Redirect output to file
+          "&&",
+          "rm",  // macOS command to delete files
+          "jspwTest"      // Delete the compiled executable
+        ],
+        "presentation": {
+          "reveal": "never"
         },
-        {
-            "label": "compile and run",
-            "type": "shell",
-            "command": "g++ -std=c++17 -o ${fileBasenameNoExtension} ${file} && ./${fileBasenameNoExtension} < input.txt > output.txt",
-            "group": {
-                "kind": "build",
-                "isDefault": true
-            }
-        }
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        },
+        "problemMatcher": "$gcc"  // Assuming similar error format, adjust if needed
+      }
     ]
-}
+  }
