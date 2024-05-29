@@ -1,2 +1,2 @@
-Enter your name
-hello Rohit Saini
+Enter Base and Height of the triangle 
+Area is 6
