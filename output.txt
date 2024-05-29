@@ -1,2 +1,2 @@
-Enter Base and Height of the triangle 
-Area is 6
+Enter the value of n
+Sum of first n natural numbers is 55
