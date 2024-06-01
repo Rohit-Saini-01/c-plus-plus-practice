@@ -1,2 +1,2 @@
-Enter the coefficients of the quadratic equation
-Real roots of the given quadratic equation are 4 1
+Enter the value of initial_velocity, final_velocity and acceleration
+Displacement = -5
