@@ -1,5 +1,9 @@
-ENter two numbers
-9
-45
-40
-8
+Enter a number you want to experiment increment decrement operator on
+num1++
+4
+num1--
+5
+++num1
+5
+--num1
+4
