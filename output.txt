@@ -1,2 +1,2 @@
-Enter the value of n
-Sum of first 10 natural numbers is 55
+Enter the coefficients of the quadratic equation
+Real roots of the given quadratic equation are 4 1
