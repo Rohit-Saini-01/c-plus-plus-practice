@@ -1,1 +1,2 @@
-Hello World!
+Enter two integers
+Sum of the entered integers is 1
