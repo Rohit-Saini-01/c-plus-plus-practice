@@ -1,2 +1,2 @@
-Enter the value of principal, rate and time
-Simple Interest = 1000
+Enter the height, radius of the cylinder
+Volume of the entered cylinder is 314.286
