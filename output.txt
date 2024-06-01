@@ -1,2 +1,5 @@
-Enter the abcissa and ordinate values of the two points
-Distance between two points is 2.82843
+ENter two numbers
+9
+45
+40
+8
