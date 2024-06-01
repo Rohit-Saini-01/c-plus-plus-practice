@@ -1,2 +1,2 @@
-Enter the value of initial_velocity, final_velocity and acceleration
-Displacement = -5
+Enter the value of principal, rate and time
+Simple Interest = 1000
