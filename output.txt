@@ -1,9 +1,9 @@
 Enter a number you want to experiment increment decrement operator on
 num1++
-4
+10
 num1--
-5
+11
 ++num1
-5
+11
 --num1
-4
+10
