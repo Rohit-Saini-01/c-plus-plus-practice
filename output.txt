@@ -1,9 +1,2 @@
-Enter a number you want to experiment increment decrement operator on
-num1++
-10
-num1--
-11
-++num1
-11
---num1
-10
+-2147483648
+2147483647

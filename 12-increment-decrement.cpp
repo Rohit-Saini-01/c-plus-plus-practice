@@ -12,6 +12,7 @@ int main()
     std::cout << "++num1\n"
               << ++num1 << "\n";
     std::cout << "--num1\n"
-              << --num1 << "\n";
+              << --num1 << "\n"
+              << INT_MIN;
     return 0;
 }
