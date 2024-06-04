@@ -1,3 +1,2 @@
-1
-90
-80
+Enter two integers
+Max is 10
