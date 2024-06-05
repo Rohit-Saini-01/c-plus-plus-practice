@@ -1,2 +1,2 @@
-Enter two integers
-Max is 10
+Enter the hour in 24hr format 
+Enter a value between 0-24 
