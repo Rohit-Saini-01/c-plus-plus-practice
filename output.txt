@@ -1,1 +1,2 @@
-Hello World 
+Enter two integers 
+The sum of entered integers is 30
