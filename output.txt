@@ -1,2 +1,2 @@
-Enter the hour in 24hr format 
-Enter a value between 0-24 
+Enter three numbers 
+3 is the max amoung the entered numbers
