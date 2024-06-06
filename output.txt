@@ -1,2 +1,1 @@
-Enter three numbers 
-3 is the max amoung the entered numbers
+Hello World! 

@@ -1,8 +1,13 @@
 #include <iostream>
-using namespace std;
+
+int PrintHello()
+{
+    std::cout << "Hello World! \n";
+    return 0;
+}
 
 int main()
 {
-    cout << "Hello World!\n";
+    PrintHello();
     return 0;
 }
