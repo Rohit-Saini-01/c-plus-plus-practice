@@ -1,2 +1,2 @@
-May I know your name? 
-Hello Rohit Saini
+Enter the base and height of the triangle 
+Area of the triangle is 50
