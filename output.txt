@@ -1,2 +1,2 @@
-Enter the value of radius 
-Area of the circle with radius 10 is314
+Enter the value of initial_velocity, final_velocity and acceleration 
+Displacement is 75
