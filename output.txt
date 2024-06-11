@@ -1,2 +1,2 @@
-Enter the base and height of the triangle 
-Area of the triangle is 50
+Enter the value of n 
+Sum of first 10 natural numbers is 50
