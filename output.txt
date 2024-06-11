@@ -1,2 +1,2 @@
-Enter the value of initial_velocity, final_velocity and acceleration 
-Displacement is 75
+ENter the value of p,r and t
+Simple interest is 100
