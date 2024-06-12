@@ -1,2 +1,2 @@
-Enter Age
-Eligible
+Enter three numbers
+3
