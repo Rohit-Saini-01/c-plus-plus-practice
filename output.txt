@@ -1,2 +1,2 @@
-ENter hour
-Leisure Hour
+Enter Age
+Eligible
