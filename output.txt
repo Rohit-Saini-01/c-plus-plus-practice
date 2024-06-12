@@ -1,2 +1,2 @@
-ENter the value of p,r and t
-Simple interest is 100
+Enter the value of x1,x2,y1 and y2 
+Distance is 2.82843
