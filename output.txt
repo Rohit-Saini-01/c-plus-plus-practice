@@ -1,3 +1,2 @@
-Enter the value of coefficient a,b,c
-Real and unequal roots 
-1 and 0.25
+Enter the values of three subject marks
+B
