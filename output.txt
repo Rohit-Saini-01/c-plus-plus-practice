@@ -1,5 +1,1 @@
-Enter the value of num
-1
-2
-5
-10
+Perfect number
