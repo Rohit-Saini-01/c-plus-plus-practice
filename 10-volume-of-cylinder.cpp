@@ -9,5 +9,3 @@ int main()
     std::cout << "Volume is " << volume;
     return 0;
 }
-
-// give me python equivalent code for this C++ code

@@ -2,7 +2,9 @@
 
 int main()
 {
-    int num, digit, rev_num = 0;
+    int num, digit, rev_num = 0, num_copy;
+
+    num_copy = num;
 
     std::cout << "Enter a number\n";
     std::cin >> num;
@@ -14,7 +16,10 @@ int main()
         rev_num = rev_num * 10 + digit;
     }
 
-    std::cout << rev_num;
+    if (rev_num == num_copy)
+        std::cout << "Number is palindrome\n";
+    else
+        std::cout << "Number is not palindrome\n";
 
     return 0;
 }

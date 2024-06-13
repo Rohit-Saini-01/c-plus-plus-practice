@@ -9,5 +9,3 @@ int main()
     std::cout << "Area of the triangle is " << area;
     return 0;
 }
-
-// give me python equivalent code for this C++ code

@@ -9,7 +9,7 @@ int main()
     std::cout << (int)result << "\n";
 
     result = var1 << 1;
-    std::cout <<(int) result << "\n";
+    std::cout << (int)result << "\n";
 
     result = var1 >> 1;
     std::cout << (int)result << "\n";
@@ -25,5 +25,3 @@ int main()
 
     return 0;
 }
-
-// give me python equivalent code for this C++ code

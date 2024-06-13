@@ -8,5 +8,3 @@ int main()
     std::cout << "X:" << x;
     return 0;
 }
-
-// give me python equivalent code for this C++ code

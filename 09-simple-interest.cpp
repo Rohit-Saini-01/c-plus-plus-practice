@@ -9,5 +9,3 @@ int main()
     std::cout << "Simple interest is " << simple_interest;
     return 0;
 }
-
-// give me python equivalent code for this C++ code

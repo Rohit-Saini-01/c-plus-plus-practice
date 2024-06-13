@@ -2,7 +2,7 @@
 
 int main()
 {
-    int num, fact=1;
+    int num, fact = 1;
 
     std::cout << "Enter the value of n:\n";
     std::cin >> num;
@@ -14,5 +14,3 @@ int main()
 
     return 0;
 }
-
-// give me python equivalent code for this C++ code

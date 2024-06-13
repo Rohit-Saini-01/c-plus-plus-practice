@@ -8,9 +8,7 @@ int main()
     std::cin >> num;
 
     for (int i = 1; i <= num; i++)
-        std::cout << i<<"\n";
-    
+        std::cout << i << "\n";
+
     return 0;
 }
-
-// give me python equivalent code for this C++ code

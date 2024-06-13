@@ -9,5 +9,3 @@ int main()
     std::cout << "Sum of first " << num << " natural numbers is " << sum;
     return 0;
 }
-
-// give me python equivalent code for this C++ code
