@@ -1,2 +1,2 @@
 Enter the value of n:
-3
+120
