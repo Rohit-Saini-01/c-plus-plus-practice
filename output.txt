@@ -1,2 +1,4 @@
-Enter the value of num
-Not a prime number
+Enter a number
+9
+8
+6
