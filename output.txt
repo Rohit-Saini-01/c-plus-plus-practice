@@ -1,2 +1,2 @@
-Enter the values of three subject marks
-B
+Enter day number
+Tuesday
