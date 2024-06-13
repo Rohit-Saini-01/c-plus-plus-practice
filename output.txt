@@ -1,2 +1,2 @@
-Enter a number
-351
+Enter the value of two numbers
+GCD of the two numbers is 8
