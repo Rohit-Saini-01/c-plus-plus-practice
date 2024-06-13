@@ -1,2 +1,1 @@
-1
-1
+Enter day number:Tuesday
