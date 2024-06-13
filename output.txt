@@ -1,1 +1,2 @@
-Perfect number
+Enter the value of num
+Not a prime number
