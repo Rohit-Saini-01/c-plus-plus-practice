@@ -1,3 +1,4 @@
 Enter the value of n
-Enter the key you want to search
-Found at 1
+Enter elements of the array
+Enter the value of key
+Found at 4
