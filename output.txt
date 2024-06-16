@@ -1,5 +1,5 @@
-enter the avlue of n 
-   *
-  **
- ***
-****
+enter the value of n 
+* * * * 
+* * * 
+* * 
+* 
