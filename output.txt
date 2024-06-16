@@ -1,5 +1,4 @@
-enter the value of n 
-* * * * 
-* * * 
-* * 
-* 
+Enter the value of rows and cols 
+Enter the values of the 2d array
+123
+456
