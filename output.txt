@@ -1,4 +1,5 @@
-Enter the value of rows and cols 
-Enter the values of the 2d array
-123
-456
+10
+0x119dffe0c
+0x119dffe0c
+0x119dffe00
+10
