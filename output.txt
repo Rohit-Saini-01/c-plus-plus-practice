@@ -1,5 +1,4 @@
-Hello
-HELLO
-HELLO
-ABCDE
-Hello
+Enter your name:
+Rohit Saini
+Enter a line:
+Sadhna Saini
