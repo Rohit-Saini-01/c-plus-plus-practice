@@ -1,4 +1,2 @@
 Enter a string
-Hello
-Enter another string
-World!
+Hello World!
