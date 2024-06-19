@@ -1,3 +1,4 @@
 Enter the first string
 Rohit Saini
-Enter the second stringNext Line
+Enter the second string
+Sadhna Saini

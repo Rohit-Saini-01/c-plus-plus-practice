@@ -9,10 +9,11 @@ int main()
     std::cin.get(str, 100);
     std::cout << str << "\n";
 
-    std::cout << "Enter the second string";
+    std::cin.ignore();
+
+    std::cout << "Enter the second string\n";
     std::cin.get(str1, 100);
     std::cout << str1;
-    std::cout << "Next Line\n";
-
+    
     return 0;
 }
