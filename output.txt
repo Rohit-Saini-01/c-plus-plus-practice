@@ -1,6 +1,4 @@
-x
-23
-y
-12
-z
-43
+Enter a string
+Hello
+Enter another string
+World!
