@@ -1,2 +1,7 @@
 Enter a string
 Hello World!
+12
+12
+4611686018427387903
+15
+String is I'm back
