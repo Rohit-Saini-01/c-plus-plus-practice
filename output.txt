@@ -1,4 +1,2 @@
-Enter the first string
-Rohit Saini
-Enter the second string
-Sadhna Saini
+235
+123.23
