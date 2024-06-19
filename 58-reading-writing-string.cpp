@@ -3,20 +3,16 @@
 int main()
 {
     char str[100];
+    char str1[100];
 
-    std::cout << "Enter your name:\n";
-    std::cin >> str;
-    std::cout << str << std::endl;
+    std::cout << "Enter the first string\n";
+    std::cin.get(str, 100);
+    std::cout << str << "\n";
 
-    char get[100];
-    std::cout << "Enter your name:\n";
-    std::cin.get(get, 100);
-    std::cout << get << std::endl;
-
-    char getline[100];
-    std::cout << "Enter a line:\n";
-    std::cin.getline(getline, 100);
-    std::cout << getline << std::endl;
+    std::cout << "Enter the second string";
+    std::cin.get(str1, 100);
+    std::cout << str1;
+    std::cout << "Next Line\n";
 
     return 0;
 }

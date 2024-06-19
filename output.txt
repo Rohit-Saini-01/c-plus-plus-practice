@@ -1,4 +1,3 @@
-Not found 
--1
-llo
-lo
+Enter the first string
+Rohit Saini
+Enter the second stringNext Line
