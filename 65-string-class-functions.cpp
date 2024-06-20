@@ -20,9 +20,7 @@ int main()
     str = "I'm back";
 
     if (str.empty())
-    {
         std::cout << "Empty String\n";
-    }
     else
         std::cout << "String is " << str;
     return 0;
