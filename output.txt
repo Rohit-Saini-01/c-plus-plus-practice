@@ -1,9 +1,2 @@
-l
-1
-e
-e
-Hello World
-H
-d
- World
- World
+HELLO
+hello
