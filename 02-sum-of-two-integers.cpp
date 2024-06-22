@@ -11,3 +11,4 @@ int main()
     std::cout << "Sum of the entered integers is " << sum;
 
     return 0;
+}
