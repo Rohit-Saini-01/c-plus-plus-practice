@@ -6,7 +6,7 @@ int linear_search(int arr[], int key, int size)
     {
         if (arr[i] == key)
         {
-            std::cout << "Found " << arr[i] << " at " << i << "\n";
+            std::cout << "Found " << arr[i] << " at index " << i << "\n";
             return 0;
         }
     }

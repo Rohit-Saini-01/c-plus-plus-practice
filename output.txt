@@ -1,4 +1,4 @@
 enter the size of the array
 Enter the elements of the array of size 5
 Enter the key you want to search 
-Found 3 at 2
+Not found
