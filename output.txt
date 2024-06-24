@@ -1,4 +1,3 @@
-enter the size of the array
-Enter the elements of the array of size 5
-Enter the key you want to search 
-Not found
+Enter two integers
+5 is max
+1 is min
