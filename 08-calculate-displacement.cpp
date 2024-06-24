@@ -11,5 +11,6 @@ int main()
     displacement = (final_velocity * final_velocity - initial_velocity * initial_velocity) / (2 * acceleration);
 
     std::cout << "Displacement is " << displacement;
+
     return 0;
 }
