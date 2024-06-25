@@ -11,8 +11,8 @@ public:
     // Default Constructor
     // Rectangle()
     // {
-    //     setLength(0);
-    //     setBreadth(0);
+    //     length = 0;
+    //     breadth = 0;
     // }
 
     // PARAMETERISED CONSTRUCTOR
@@ -81,14 +81,13 @@ public:
 int main()
 {
     Rectangle rect(10, 5);
-   Rectangle rect_copy= Rectangle(rect);
+    Rectangle rect_copy = Rectangle(rect);
 
-    std::cout<<rect.area()<<"\n";
-    std::cout<<rect.perimeter()<<"\n";
+    std::cout << rect.area() << "\n";
+    std::cout << rect.perimeter() << "\n";
 
-    std::cout<<rect_copy.area()<<'\n';
-    std::cout<<rect_copy.perimeter()<<'\n';
+    std::cout << rect_copy.area() << '\n';
+    std::cout << rect_copy.perimeter() << '\n';
 
-    
     return 0;
 }
