@@ -1,3 +1,4 @@
-Enter two integers
-5 is max
-1 is min
+50
+30
+150
+50
