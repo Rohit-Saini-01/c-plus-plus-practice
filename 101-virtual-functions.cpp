@@ -3,8 +3,8 @@
 class Parent
 {
 public:
-    //virtual function
-   virtual int display()
+    // virtual function
+    virtual int display()
     {
         std::cout << "Display of parent\n";
         return 0;
@@ -24,7 +24,7 @@ public:
 int main()
 {
 
-    Parent *pr = new Child;//base class pointer derived class object
+    Parent *pr = new Child; // base class pointer derived class object
 
     pr->display(); // child class function will be called
 
