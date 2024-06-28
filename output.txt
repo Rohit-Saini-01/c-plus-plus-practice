@@ -1,1 +1,1 @@
-Display of parent
+Display of child
